@@ -4,8 +4,12 @@ CSS projects that I liked and I decided to repeat them
 
 ## 1. Handwash
 
-> Demo (poor quality)
+#### Demo
+
+https://css-drawing-five.vercel.app/
+
+#### Preview
 
 ![Описание картинки](./01.handwashcss/files/cover.gif)
 
-[Original](./01.handwashcss/README.md)
+[Original](https://codepen.io/arnav-dev-git/pen/PomOGRp)
