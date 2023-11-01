@@ -16,6 +16,10 @@ https://css-drawing-five.vercel.app/
 
 ## 2. iMac
 
+#### Demo
+
+https://css-drawing-ijev.vercel.app/
+
 #### Preview
 
 ![Описание картинки](./02.imac/files/cover.jpg)
