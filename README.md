@@ -13,3 +13,11 @@ https://css-drawing-five.vercel.app/
 ![Описание картинки](./01.handwashcss/files/cover.gif)
 
 [Original](https://codepen.io/arnav-dev-git/pen/PomOGRp)
+
+## 2. iMac
+
+#### Preview
+
+![Описание картинки](./02.imac/files/cover.jpg)
+
+[Original](https://codepen.io/rcks29c/pen/ZEbBvRr)
